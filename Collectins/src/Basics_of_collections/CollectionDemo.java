@@ -26,6 +26,7 @@ public class CollectionDemo {
 		System.out.println(arr[0]);
 		System.out.println(vect.elementAt(0));
 		System.out.println(h.get(1));
+		System.out.println("This is collection it is only support objects");
 		
 //		1
 //		1
